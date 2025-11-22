@@ -1,0 +1,3 @@
+C:/Users/q/programs/learn_cpp_proj/16.X-CppMan/build/CMakeFiles/CppMan.dir
+C:/Users/q/programs/learn_cpp_proj/16.X-CppMan/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/q/programs/learn_cpp_proj/16.X-CppMan/build/CMakeFiles/ZERO_CHECK.dir
